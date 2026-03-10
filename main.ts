@@ -5,6 +5,6 @@ basic.forever(function () {
         pencacah += -1
         basic.pause(500)
     } else {
-        pencacah = 0
+        pencacah = 10
     }
 })
